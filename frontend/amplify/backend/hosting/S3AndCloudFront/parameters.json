@@ -1,0 +1,7 @@
+{
+  "bucketName": "crowdashboard-20250427095512-hostingbucket",
+  "buildCommand": "flutter build web",
+  "startCommand": "flutter run -d chrome",
+  "dist": "build/web"
+}
+

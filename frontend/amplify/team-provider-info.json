@@ -11,5 +11,23 @@
       "StackId": "arn:aws:cloudformation:us-west-2:836765538503:stack/amplify-crowddashboard-dev-63f3b/e17a56c0-2273-11f0-b8ba-029331fd330f",
       "AmplifyAppId": "d12h822pscb2ge"
     }
+  },
+  "web": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-crowddashboard-web-7c16e-authRole",
+      "UnauthRoleArn": "arn:aws:iam::836765538503:role/amplify-crowddashboard-web-7c16e-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::836765538503:role/amplify-crowddashboard-web-7c16e-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-crowddashboard-web-7c16e-deployment",
+      "UnauthRoleName": "amplify-crowddashboard-web-7c16e-unauthRole",
+      "StackName": "amplify-crowddashboard-web-7c16e",
+      "StackId": "arn:aws:cloudformation:us-west-2:836765538503:stack/amplify-crowddashboard-web-7c16e/2e6c9f30-2303-11f0-a6ad-0615de7501bd",
+      "AmplifyAppId": "d12h822pscb2ge"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
   }
 }
