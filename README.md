@@ -1,4 +1,4 @@
-# AI-Hackathon 台灣生成式AI黑客松: 研華科技組
+# Taiwan Gen AI Applications Hackathon: Snapport - Advantech Co.
 
 ## Proposol Outline
 
