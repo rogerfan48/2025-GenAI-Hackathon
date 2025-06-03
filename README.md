@@ -25,3 +25,7 @@ Claude 3.7 Sonnet
 ## Project Demo
 
 [Demo Video](https://drive.google.com/file/d/1xsR5o3TdAOiNXzGXnvMhrRhFlFRj-iPE/view)
+
+## Hackathon Presentation Photo
+
+![Hackathon_Presentation Photo](https://github.com/user-attachments/assets/4eb15c89-8901-4aa4-a4c7-95996974a268)
